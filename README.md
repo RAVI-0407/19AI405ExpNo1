@@ -82,6 +82,6 @@ print("\nSimulation Complete!")
 print(f"Final Performance Score: {performance_score}")
 print("Environment State:", environment)
 ```
-Output:
+<h3>Output:</h3>
 
 ![alt text](image.png)
